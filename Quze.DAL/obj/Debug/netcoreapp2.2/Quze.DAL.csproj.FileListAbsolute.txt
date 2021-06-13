@@ -1,0 +1,13 @@
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\bin\Debug\netcoreapp2.2\Quze.DAL.deps.json
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\bin\Debug\netcoreapp2.2\Quze.DAL.dll
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\bin\Debug\netcoreapp2.2\Quze.DAL.pdb
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\bin\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\bin\Debug\netcoreapp2.2\Quze.Models.dll
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\bin\Debug\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\bin\Debug\netcoreapp2.2\Quze.Models.pdb
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\obj\Debug\netcoreapp2.2\Quze.DAL.csprojAssemblyReference.cache
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\obj\Debug\netcoreapp2.2\Quze.DAL.AssemblyInfoInputs.cache
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\obj\Debug\netcoreapp2.2\Quze.DAL.AssemblyInfo.cs
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\obj\Debug\netcoreapp2.2\Quze.DAL.csproj.CopyComplete
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\obj\Debug\netcoreapp2.2\Quze.DAL.dll
+C:\Users\atara\Source\Repos\Quze\Quze.DAL\obj\Debug\netcoreapp2.2\Quze.DAL.pdb

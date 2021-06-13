@@ -1,0 +1,16 @@
+﻿nav {
+    padding: 10px 10px 0;
+    background: #333;
+}
+
+.is-visible {
+    border: solid 1px red;
+}
+
+section {
+    margin: 20px;
+}
+
+h2, p {
+    margin: 0;
+}

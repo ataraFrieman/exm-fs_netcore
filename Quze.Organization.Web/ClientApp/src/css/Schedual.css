@@ -1,0 +1,35 @@
+﻿.shadow {
+    width: 600px;
+    grid-template-columns: fit-content(300px) fit-content(300px) 1fr;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin: auto;
+    z-index: 10000000;
+    position: absolute;
+    margin:auto;
+    top:-20px;
+    left:25%;   
+    background-color:white;
+    border-radius:3px;
+    position:center;
+}
+.cover {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 9998;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 200px;
+    opacity: 0.5;
+}
+.close {
+    font-size: 30px;
+}
+.img {
+    width: 220px;
+    text-align: center;
+}

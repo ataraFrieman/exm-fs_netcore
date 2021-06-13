@@ -1,0 +1,10 @@
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\bin\Debug\netcoreapp2.2\Quze.Infrastruture.deps.json
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\bin\Debug\netcoreapp2.2\Quze.Infrastruture.runtimeconfig.json
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\bin\Debug\netcoreapp2.2\Quze.Infrastruture.runtimeconfig.dev.json
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\bin\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\bin\Debug\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\obj\Debug\netcoreapp2.2\Quze.Infrastruture.csprojAssemblyReference.cache
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\obj\Debug\netcoreapp2.2\Quze.Infrastruture.AssemblyInfoInputs.cache
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\obj\Debug\netcoreapp2.2\Quze.Infrastruture.AssemblyInfo.cs
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\obj\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\Source\Repos\Quze\Quze.Infrastruture\obj\Debug\netcoreapp2.2\Quze.Infrastruture.pdb

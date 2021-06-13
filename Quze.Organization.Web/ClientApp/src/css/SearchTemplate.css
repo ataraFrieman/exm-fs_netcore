@@ -1,0 +1,33 @@
+
+.searchee {
+    position: fixed;
+    margin: auto;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    transition: all 1s;
+    z-index: 4;
+    font-size: 30px;
+} 
+.searcheePluse {
+    min-width: 40px;
+    min-height: 40px;
+    max-width: 40px;
+    max-height: 40px;
+    background: #ed1c402b;
+    border-radius: 50%;
+    transition: all 1s;
+    z-index: 4;
+    font-size: 30px;
+}
+.nobackground{
+    min-width: 40px;
+    min-height: 40px;
+    max-width: 40px;
+    max-height: 40px;
+    background:transparent;
+    border-radius: 50%;
+    transition: all 1s;
+    z-index: 4;
+    font-size: 30px;
+}

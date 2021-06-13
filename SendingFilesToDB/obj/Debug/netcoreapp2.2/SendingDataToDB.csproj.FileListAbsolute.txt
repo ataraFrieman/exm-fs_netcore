@@ -1,0 +1,15 @@
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\SendingDataToDB.deps.json
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\SendingDataToDB.runtimeconfig.json
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\SendingDataToDB.runtimeconfig.dev.json
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\SendingDataToDB.dll
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\SendingDataToDB.pdb
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\Quze.Models.dll
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\Quze.Models.pdb
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\bin\Debug\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\obj\Debug\netcoreapp2.2\SendingDataToDB.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\obj\Debug\netcoreapp2.2\SendingDataToDB.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\obj\Debug\netcoreapp2.2\SendingDataToDB.AssemblyInfo.cs
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\obj\Debug\netcoreapp2.2\SendingDataToDB.csproj.CopyComplete
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\obj\Debug\netcoreapp2.2\SendingDataToDB.dll
+C:\Users\atara\source\repos\Quze\SendingFilesToDB\obj\Debug\netcoreapp2.2\SendingDataToDB.pdb

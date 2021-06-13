@@ -1,0 +1,10 @@
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\bin\Release\netcoreapp2.2\Quze.Infrastruture.deps.json
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\bin\Release\netcoreapp2.2\Quze.Infrastruture.runtimeconfig.json
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\bin\Release\netcoreapp2.2\Quze.Infrastruture.runtimeconfig.dev.json
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\bin\Release\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\bin\Release\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\obj\Release\netcoreapp2.2\Quze.Infrastruture.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\obj\Release\netcoreapp2.2\Quze.Infrastruture.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\obj\Release\netcoreapp2.2\Quze.Infrastruture.AssemblyInfo.cs
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\obj\Release\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\source\repos\Quze\Quze.Infrastruture\obj\Release\netcoreapp2.2\Quze.Infrastruture.pdb

@@ -1,0 +1,15 @@
+.grid-user {
+display: grid;
+grid-template-rows: 1fr 1fr;
+grid-template-columns: 1fr 1fr 1fr;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.item-a {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 2;
+    align-self: center;
+}

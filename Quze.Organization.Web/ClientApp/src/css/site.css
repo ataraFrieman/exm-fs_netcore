@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Ploni';
+    src: url('../fonts/ploni-black-aaa.woff2') format('woff2')
+}
+
+@font-face {
+    font-family: 'ploni-regular';
+    src: url('../fonts/ploni-regular-aaa.woff2') format('woff2'),url('../fonts/ploni-regular-aaa.woff')format('woff');
+}
+
+
+.textInput {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    box-shadow: none;
+}
+
+.textInput:focus {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    box-shadow: none;
+    outline: none;
+}
+
+body, html, .container-fluid, #react-app {
+    height: 100%;
+    width: 100%;
+    background-color: #E8E8E8;
+    font-family: ploni-regular;
+    font-size: 16px;
+}
+
+a {
+    color: white;
+}
+
+
+
+
+
+
+.BigCalendarContent {
+    width: 1130px;
+    direction: ltr;
+    overflow:auto !important;
+    height: 550px;
+}
+
+
+.searchModal {
+    position: relative;
+}
+.hovertabs:hover
+{
+color: red;
+}

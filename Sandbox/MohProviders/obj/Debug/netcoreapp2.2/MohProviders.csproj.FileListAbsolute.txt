@@ -1,0 +1,17 @@
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\MohProviders.deps.json
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\MohProviders.runtimeconfig.json
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\MohProviders.runtimeconfig.dev.json
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\MohProviders.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\MohProviders.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\Quze.DAL.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\Quze.Models.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\Quze.DAL.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\Quze.Models.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\bin\Debug\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\obj\Debug\netcoreapp2.2\MohProviders.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\obj\Debug\netcoreapp2.2\MohProviders.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\obj\Debug\netcoreapp2.2\MohProviders.AssemblyInfo.cs
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\obj\Debug\netcoreapp2.2\MohProviders.csproj.CopyComplete
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\obj\Debug\netcoreapp2.2\MohProviders.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohProviders\obj\Debug\netcoreapp2.2\MohProviders.pdb

@@ -1,0 +1,15 @@
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\CopyMohOrganizations.deps.json
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\CopyMohOrganizations.runtimeconfig.json
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\CopyMohOrganizations.runtimeconfig.dev.json
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\CopyMohOrganizations.dll
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\CopyMohOrganizations.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\Quze.Models.dll
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\Quze.Models.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\bin\Debug\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\obj\Debug\netcoreapp2.2\CopyMohOrganizations.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\obj\Debug\netcoreapp2.2\CopyMohOrganizations.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\obj\Debug\netcoreapp2.2\CopyMohOrganizations.AssemblyInfo.cs
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\obj\Debug\netcoreapp2.2\CopyMohOrganizations.csproj.CopyComplete
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\obj\Debug\netcoreapp2.2\CopyMohOrganizations.dll
+C:\Users\atara\source\repos\Quze\Sandbox\CopyMohOrganizations\obj\Debug\netcoreapp2.2\CopyMohOrganizations.pdb

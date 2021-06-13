@@ -1,0 +1,149 @@
+
+.minimalKitSpan {
+    min-width:12px;
+}
+.timeDiv {
+    min-width:60px;
+}
+
+.minimalKitDocBadge{
+    min-width: 70px;
+    min-height: 70px;
+    margin-top: -35px;
+}
+
+
+
+.custom-control.material-checkbox { --color: #26a69a; } .custom-control.material-checkbox .material-control-input { display: none; } .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator { border-color: var(--color); transform: rotateZ(45deg) translate(1px, -5px); width: 10px; border-top: 0px solid #fff; border-left: 0px solid #fff; } .custom-control.material-checkbox .material-control-indicator { display: inline-block; position: absolute; top: 4px; left: 0; width: 16px; height: 16px; border: 2px solid #aaa; transition: .3s; } 
+
+
+
+
+
+.custom-control.material-checkbox {
+    --color: #26a69a;
+}
+
+    .custom-control.material-checkbox .material-control-input {
+        display: none;
+    }
+
+        .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator {
+            border-color: var(--color);
+            transform: rotateZ(45deg) translate(1px, -5px);
+            width: 10px;
+            border-top: 0px solid #fff;
+            border-left: 0px solid #fff;
+        }
+
+    .custom-control.material-checkbox .material-control-indicator {
+        display: inline-block;
+        position: absolute;
+        top: 4px;
+        left: 0;
+        width: 16px;
+        height: 16px;
+        border: 2px solid #aaa;
+        transition: .3s;
+    }
+.MinimalKitText {
+    font-weight: bold;
+    font-stretch: normal;
+    text-align: center;
+    color: #1b2e4a;
+}
+.mkHeader {
+    background-color: rgba(225, 231, 235, 0.7);
+}
+.reportMedicalIcon {
+    width:18px!important;
+}
+.size20 {
+    height: 20px!important;
+    width: 20px!important;
+}
+.borderListItem {
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+}
+.mkSaveBtn {
+    border-radius: 25px;
+    background-color: #ed1c40;
+    color: white;
+}
+
+/* .mkBtn {
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+} */
+
+.mkDisplay {
+    /* float: right; */
+    /* border: 1px solid red; */
+    padding: 2px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.checkboxMinstyle {
+    align-self: center;
+    cursor: pointer;
+}
+
+.itemText {
+    font-size: 1rem;
+    overflow: hidden;
+    white-space: pre-wrap;
+    padding: 5px;
+    align-self: center;
+    text-align: center;
+
+}
+
+.minimalkitStyle {
+    text-align: left;
+    list-style-type: none;
+}
+
+.modalBody {
+    padding: 0px 10px;
+}
+/* .minimalkitStyle {
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr 1fr;
+    justify-content: center;
+    padding: 13px 0px 13px 0px;
+    justify-items: center;
+    align-items: center;
+} */
+
+.textMK {
+    float: right;
+    padding: 8px;
+}
+
+.pd-7 {
+    padding: 7px;
+}
+
+/*להעביר לאחר */
+.priority
+{
+    width: 25px;
+    height:25px;
+    background:red;
+    border-radius:50px;
+}
+
+.inputTest 
+{
+    /* padding: 0.375rem 0.75rem; ???*/
+    margin: 5px;
+    font-size: 1rem;
+    color: #495057;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+

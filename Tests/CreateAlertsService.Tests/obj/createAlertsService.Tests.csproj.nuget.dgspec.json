@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlertsService.Tests\\createAlertsService.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\atara\\source\\repos\\Quze\\Alerts\\CreateAlert\\Quze.CreateAlerts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atara\\source\\repos\\Quze\\Alerts\\CreateAlert\\Quze.CreateAlerts.csproj",
+        "projectName": "Quze.CreateAlerts",
+        "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Alerts\\CreateAlert\\Quze.CreateAlerts.csproj",
+        "packagesPath": "C:\\Users\\atara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atara\\source\\repos\\Quze\\Alerts\\CreateAlert\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj": {
+                "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Infrastruture\\Quze.Infrastruture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Infrastruture\\Quze.Infrastruture.csproj",
+        "projectName": "Quze.Infrastruture",
+        "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Infrastruture\\Quze.Infrastruture.csproj",
+        "packagesPath": "C:\\Users\\atara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Infrastruture\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj",
+        "projectName": "Quze.Models",
+        "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj",
+        "packagesPath": "C:\\Users\\atara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Infrastruture\\Quze.Infrastruture.csproj": {
+                "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Infrastruture\\Quze.Infrastruture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlert.Tests\\CreateAlerts.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlert.Tests\\CreateAlerts.Test.csproj",
+        "projectName": "CreateAlerts.Test",
+        "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlert.Tests\\CreateAlerts.Test.csproj",
+        "packagesPath": "C:\\Users\\atara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlert.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\atara\\source\\repos\\Quze\\Alerts\\CreateAlert\\Quze.CreateAlerts.csproj": {
+                "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Alerts\\CreateAlert\\Quze.CreateAlerts.csproj"
+              },
+              "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj": {
+                "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlertsService.Tests\\createAlertsService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlertsService.Tests\\createAlertsService.Tests.csproj",
+        "projectName": "createAlertsService.Tests",
+        "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlertsService.Tests\\createAlertsService.Tests.csproj",
+        "packagesPath": "C:\\Users\\atara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlertsService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj": {
+                "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Quze.Models\\Quze.Models.csproj"
+              },
+              "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlert.Tests\\CreateAlerts.Test.csproj": {
+                "projectPath": "C:\\Users\\atara\\source\\repos\\Quze\\Tests\\CreateAlert.Tests\\CreateAlerts.Test.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

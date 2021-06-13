@@ -1,0 +1,30 @@
+/* Title of every page  */
+.headerPage {
+    
+    background-color: white;
+    box-shadow: 0 0.46875rem 2.1875rem rgba(8,10,37,.03), 0 0.9375rem 1.40625rem rgba(8,10,37,.03), 0 0.25rem 0.53125rem rgba(8,10,37,.05), 0 0.125rem 0.1875rem rgba(8,10,37,.03);
+}
+.title-Container {
+    background-color: #3c519d;
+    height: 100px;
+    flex-direction:column;
+    display: flex;
+    z-index: 4;
+    justify-content:center
+}
+
+.headerTitlePage {
+    text-align:right;
+    color: darkblue;
+}
+/* .headerLanSelect {
+    border-right:thin;
+    border-right-color:#757575;
+    border-right-style:solid;
+} */
+.bg-t {
+    background-color:transparent!important;
+}
+.bg-ws {
+    background-color: #d3d9dc;
+}

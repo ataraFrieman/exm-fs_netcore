@@ -1,0 +1,3 @@
+C:\Users\atara\source\repos\Quze\Alerts\CreateAlert\obj\Debug\netcoreapp2.2\Quze.CreateAlerts.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\Alerts\CreateAlert\obj\Debug\netcoreapp2.2\Quze.CreateAlerts.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\Alerts\CreateAlert\obj\Debug\netcoreapp2.2\Quze.CreateAlerts.AssemblyInfo.cs

@@ -1,0 +1,14 @@
+.example1 {
+    height: 50px;
+    width: 50%;
+    margin: 5px;
+    border: 1px solid red;
+    border-radius: 15px 0px 0px 0px;
+    background-color: white;
+}
+.fellowSearch{
+    border: thin!important;
+    border-style: solid!important;
+    border-color: lightgray!important;
+   
+}

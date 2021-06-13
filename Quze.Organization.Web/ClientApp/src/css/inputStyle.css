@@ -1,0 +1,13 @@
+.inputInerModal{
+    background: #f1f1f1;
+    border: 0;
+    max-height: 150px;
+    height: 30px;
+    width: 300px;
+    text-align:center;
+}
+
+.btn-outline-primary {
+    color: #265985 !important;
+    border-color: #265985 !important;
+}

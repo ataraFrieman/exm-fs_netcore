@@ -1,0 +1,17 @@
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\MohExperty.deps.json
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\MohExperty.runtimeconfig.json
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\MohExperty.runtimeconfig.dev.json
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\MohExperty.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\MohExperty.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\Quze.Models.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\SendingDataToDB.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\Quze.Models.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\SendingDataToDB.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\bin\Debug\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\obj\Debug\netcoreapp2.2\MohExperty.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\obj\Debug\netcoreapp2.2\MohExperty.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\obj\Debug\netcoreapp2.2\MohExperty.AssemblyInfo.cs
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\obj\Debug\netcoreapp2.2\MohExperty.csproj.CopyComplete
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\obj\Debug\netcoreapp2.2\MohExperty.dll
+C:\Users\atara\source\repos\Quze\Sandbox\MohExperties\obj\Debug\netcoreapp2.2\MohExperty.pdb

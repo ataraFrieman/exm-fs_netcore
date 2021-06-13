@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbon-vault-241810",
+  "private_key_id": "6b615fc79dc4d4ad9946c69dd309c30495636e89",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7FL8n2eJlmoAR\nvfEbBPlqmq9vOC4fwmARAqDaRu+sOOl3mLzIEXcaL11dTBc4OXTuRYiviLR5uXp3\nhZM7QBsHXWuBik6SAT3zMa3ioFuL4qz3lbVeSVDB5A8vOkFFhjurgmaClGLsM9gr\nQ7Xl0qnH5e6MbZpmI3HIzNcdgFhP1DMjMulgrk178eavzpSkI4vDBTRK5l0Konfg\n1zXqI2YJbMtUbcjPzgMXCb9A3rVQGw8ACkXROd8YsdMIaw3bwTBb2odSDE/UGmBm\nGfKpyF9Oi4YgZBFpg1xBZg2Ibhrg/TDLHpV7BsguyrlPagS8tgh4/gP4d8K1ikCz\nPKlPKUIxAgMBAAECggEAEgLR0n7eFoUU3mBohX7pmlNRH4aLnkAi6pBTtyAMNAr4\noyx/xE02J722oeRQ+fdCJCxql+ez5GIwgbBI9/PYhlF+p6aOoOzgr3ixcneYyLNm\njqGJqA2r6jbQJW5Y2V4ugXkY8GpjybTGE4g9y2YINXgUCs4Eht/TtQ7PiQYRuoGb\nyQJfDP6fWrRTr/rU62rmU6isspR/D6xfkuYTn0lIrCAYUm/VKZoUnGbd8D8HwNIE\nh/1TvYi8UIjsypUuKeGKx3EbqLA0tL2JURhL+IpyXl3OiUos0edJdMFgmR6vyNXo\nLAqkhlhq4mVm2DyJ+KwujNZisXSzUq4Q4kRniZyRYQKBgQDliCqx8uxKlQjdFJCo\noGhzDxBN1K45wUfLwtYUMDXjiu1VddG9HV6SBBS7gyetmlxWuMcOwS8VOhRFCkP8\net99Mq34vftzmTxJ7HzfspGMGhZoazLDMoc0iOH++TYdJ/irrshDxal5JmxlXDBK\nj+9Ql+evcrjlpu0rP3OUR3bA+QKBgQDQp2vIM4cLJT6XdcVxOnOtQuXaa914V63r\na+ZfXQSJefu9a4lBioA7B9IL6X7LgSu0+Kgc1l4XswePg5SbYzTPA+6Tk8Rc3wTf\nvFpOrTDS402KUdwJDbzI4MBgLHNf6Qdmf/k4VH89RNowlaBpM5DtwqjXN4YRugWZ\nYnLkI1gQ+QKBgDipHnEDGJVoqOF6XCNkRaRxiYLNB502OzTvic0+AW+EMgYwqW/X\nuiqtWzjWrYrLWhQGVQ0tXyQMTEimuhWvd0/+nLeUnmfw4dMVz9WgzREat4FbRRKu\nfHXZfIBmoJcd8OLgqIsiVi2T8Jos4bbmRRtOBGFpHn+Cb3WHmk52PbhxAoGABqxU\nFiMPvpuCVPW/Ss/Dw1bQYxvwCVlEhrL8uzAOZRcxpe06ho4Xa8vkO91L4NZQv4j0\nV3fDqp5fL4fVyOJzXeuSRcYEEbRQQ5eSi9GeLiB26mWT0/ZMg2AsxualCfw58F1H\nazXIm/0HvWYLq1Gq4O/I1plAAHEinLU5V3KJ7oECgYB5KggCIRw+SLXZq91ViAcF\ntNT3jZcvOLnQjbShudMaQCgWEzi9tKJLCpSZeWgLIONrkRb7xCXsbhzoYhs9mXMo\nzEoHYSCDq/jEWuB0CWKvgf5iHRetMjdBun/jGXhFz7smG+pVbqbP1WCqaI6X7EFy\nEUixpoCCHV1DlP/S3VT/lw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "textquze@carbon-vault-241810.iam.gserviceaccount.com",
+  "client_id": "113189856250133265072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/textquze%40carbon-vault-241810.iam.gserviceaccount.com"
+}

@@ -1,0 +1,13 @@
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\bin\Debug\netcoreapp2.2\Quze.SendAlerts.deps.json
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\bin\Debug\netcoreapp2.2\Quze.SendAlerts.dll
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\bin\Debug\netcoreapp2.2\Quze.SendAlerts.pdb
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\bin\Debug\netcoreapp2.2\Quze.Infrastruture.dll
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\bin\Debug\netcoreapp2.2\Quze.Models.dll
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\bin\Debug\netcoreapp2.2\Quze.Infrastruture.pdb
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\bin\Debug\netcoreapp2.2\Quze.Models.pdb
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\obj\Debug\netcoreapp2.2\Quze.SendAlerts.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\obj\Debug\netcoreapp2.2\Quze.SendAlerts.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\obj\Debug\netcoreapp2.2\Quze.SendAlerts.AssemblyInfo.cs
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\obj\Debug\netcoreapp2.2\Quze.SendAlerts.csproj.CopyComplete
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\obj\Debug\netcoreapp2.2\Quze.SendAlerts.dll
+C:\Users\atara\source\repos\Quze\Alerts\Quze.SendAlerts\obj\Debug\netcoreapp2.2\Quze.SendAlerts.pdb

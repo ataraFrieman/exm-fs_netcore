@@ -1,0 +1,32 @@
+﻿
+@keyframes fadeIn {
+    0% {
+        -webkit-transform: scale(0.2);
+        -ms-transform: scale(0.2);
+        transform: scale(0.2);
+        left: 0;
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+        left: auto;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+        left: auto;
+    }
+
+    100% {
+        -webkit-transform: scale(0.2);
+        -ms-transform: scale(0.2);
+        transform: scale(0.2);
+        left: 0;
+    }
+}

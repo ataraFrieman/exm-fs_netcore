@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "CopyMohOrganizations": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "quze": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "Executable"
+    }
+  }
+}

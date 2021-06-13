@@ -1,0 +1,91 @@
+.autoCompleteSearch {
+    width:50%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.875rem;
+    color: rgba(0, 0, 0, .73);
+    position: relative;
+    margin: auto;
+}
+
+.autoCompleteSearch input {
+    width: 100%;/* make problem*/
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.875rem; 
+    color: rgba(0, 0, 0, .73);
+    padding: 5px 5px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.autoCompleteSearch ul {
+    list-style-type: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #d8e5ee;
+    position: absolute; 
+    width: 100%;
+    background-color: #fff;
+    z-index: 5;
+
+    
+}
+
+.autoCompleteSearch ul::before {
+    content: "";
+}
+
+.autoCompleteSearch li {
+    padding: 10px 5px;
+    width: 100%;
+    cursor: pointer;
+    border-bottom: 1px solid #d4d4d4; 
+    position: relative;
+}
+
+.suggestion-active {
+    background-color: rgba(128, 128, 128, 0.2);
+    /* background-color: gray; */
+    font-weight: 700;
+}
+
+.autoCompleteSearch li:hover {
+    background-color: rgba(128, 128, 128, 0.2);
+    /* background-color: gray; */
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.search-span {
+    float: left;
+    /* margin-left: 6px; */
+    margin-top: -34px;
+    padding: 10px;
+    position: relative;
+    size: 10px;
+    color: #042263
+
+    ;
+}
+
+.search-delete {
+    cursor: pointer;
+}
+
+.suggestion-empty {
+    border-top: 1px solid #d4d4d4; 
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+/* css for the FontAwesomeIcon ? */
+/*width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512"*/
+
+
+/*col-12 יש בעיה עם
+  :עם העיצוב שיש ב
+  padding-right: 15px; 
+  padding-left: 15px;
+  שמזיז את כל הדף 15 ימינה ו 15 שמאלה
+*/

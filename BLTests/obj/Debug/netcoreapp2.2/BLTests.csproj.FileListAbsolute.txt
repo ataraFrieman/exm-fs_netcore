@@ -1,0 +1,3 @@
+C:\Users\atara\source\repos\Quze\BLTests\obj\Debug\netcoreapp2.2\BLTests.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\Quze\BLTests\obj\Debug\netcoreapp2.2\BLTests.AssemblyInfoInputs.cache
+C:\Users\atara\source\repos\Quze\BLTests\obj\Debug\netcoreapp2.2\BLTests.AssemblyInfo.cs

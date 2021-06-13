@@ -1,0 +1,18 @@
+
+span.noShowCaroselIndicaotr.carousel-indicators li {
+    visibility: hidden;
+}
+
+.carousel-control {
+    background: none !important;
+    max-width: 50px;
+}
+
+.react-tabs__tab--selected {
+    background-color: #e7ecef !important;
+    border: 1px solid #aaa !important;
+    border-bottom-color: #e7ecef !important;
+}
+.hading {
+    display: inline-block;
+}
